@@ -1,0 +1,18 @@
+.info-header {
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px #ddd solid;
+}
+
+#authors img {
+    margin-top: -25%;
+}
+
+#authors .fab {
+    color: #3292a6;
+}
+
+#authors .card:hover {
+    background: #3292a6;
+    color: #fff;
+}
